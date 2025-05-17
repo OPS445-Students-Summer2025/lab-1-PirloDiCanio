@@ -23,5 +23,5 @@ OPS445 Lab Report - System Information for running ./CheckLab1.py
     Python version:  3.12.3 (main, Nov  6 2024, 18:32:19) [GCC 13.2.0]
     OS Platform: linux
     Working Directory: /home/fouwhumiakpo/ops445/lab1
-    Start at: Sat May 17 00:03:27 2025
+    Start at: Sat May 17 00:14:46 2025
 =================================================================
